@@ -1,26 +1,26 @@
 # Site settings
 title: 仓颉造字 # 你的博客名字，可以定义修订
-header-img: "img/green.jpg"
+header-img: "img/semantic.jpg"
 tagline: "cn"  
-description: "发现规律，总结规律，实践规律"  # 一句话描述你的博客
-baseurl: ""
-url: "http://cnfeat"  # 此处填写你的博客地址 
+description: "学习、反思，再学习、再反思——进步"  # 一句话描述你的博客
+baseurl: "/Dalio"
+url: "https://creatletter.github.io/Dalio/"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
-  name: "仓颉" # 填写作者信息：名字
+  name: "王钧颉" # 填写作者信息：名字
   email: jingmi_jie@outlook.com # 填写作者信息：邮箱
-  bio: "可以随便写字的地方" # 填写作者信息：博客描述
+  bio: "跃跃欲试，想要实践的好奇者" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+gavatar: https://en.gravatar.com/userimage/168747470/20c9c9425b4dc4112cfb17ad6e1725d4.jpeg # 浏览器地址栏小图标，可自定义更改
+favicon: img/favicon-20190901114117447.ico # 浏览器地址栏小图标，可自定义更改
 
-douban_username: flactuation_c # 你的豆瓣id
+douban_username:  # 你的豆瓣id
 twitter_username: 
 github_username: 
 facebook_username: 
-weibo_username: 半岛铀盒
+weibo_username: 
 zhihu_username: 
 
 # Build settings  
